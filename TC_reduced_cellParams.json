@@ -1,7 +1,7 @@
 {
     "conds": {
         "cellModel": "HH_reduced",
-        "cellType": "TC",
+        "cellType": "TC"
     },
     "globals": {
         "erev_kl": -95.0,
